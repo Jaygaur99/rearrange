@@ -1,2 +1,4 @@
-# rearrange
-Rearrange w4
+Rearrange
+=========
+
+This module will be used for rearranging names.
